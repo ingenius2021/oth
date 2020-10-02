@@ -31,4 +31,10 @@ python manage.py createsuperuser <username>
  Run the server:
  python manage.py runserver
  
+# Credits
+Thanks to code-haven for the original project.
+
+# Author
+Built by Amjad Ali for inGenius 2016 on behalf of PESITSouth ACM.
+ 
  
