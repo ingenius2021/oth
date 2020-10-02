@@ -19,6 +19,7 @@ python -m venv myvenv
 
 Install dependencies using pip.
 pip install -r requirements-dev.txt [for develeopment]
+
 pip install -r requirements-prod.txt [for production]
 
 Go to the projetc's directory on the terminal.
