@@ -18,6 +18,7 @@ Set up a virtual environment and switch to it. (Optional, but recommended.) Foll
 python -m venv myvenv
 
 Install dependencies using pip.
+
 pip install -r requirements-dev.txt [for develeopment]
 
 pip install -r requirements-prod.txt [for production]
