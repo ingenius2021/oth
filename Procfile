@@ -1,2 +1,2 @@
-web: python manage.py runserver
-web: gunicorn thepursuit.wsgi --preload -b 0.0.0.0:8000 --log-file - 
+web: python manage.py runserver 0.0.0.0:$PORT
+web: gunicorn thepursuit.wsgi --preload -b 0.0.0.0:$PORT --log-file - 
