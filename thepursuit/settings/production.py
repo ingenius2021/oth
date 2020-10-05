@@ -4,7 +4,7 @@ from thepursuit.settings.base import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['thepursuit.ingeniushack.com']
+ALLOWED_HOSTS = ['*']
 
 #ALLOWED_HOSTS += [os.environ['DJANGO_HOST_NAME']]
 
