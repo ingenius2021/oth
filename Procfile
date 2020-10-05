@@ -1,1 +1,1 @@
-web: gunicorn thepursuit --preload -b 0.0.0.0:5000 
+web: gunicorn oth:apps --preload -b 0.0.0.0:5000 
