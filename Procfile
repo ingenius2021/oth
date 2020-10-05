@@ -1,1 +1,1 @@
-web: gunicorn the-pursuit.wsgi
+web: gunicorn thepursuit.wsgi
