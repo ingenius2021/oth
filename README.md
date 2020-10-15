@@ -25,6 +25,7 @@ pip install -r requirements-prod.txt [for production]
 
 Go to the projetc's directory on the terminal.
 python manage.py makemigrations oth
+
 python manage.py migrate oth
 
 Create a super user using:
